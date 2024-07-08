@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+header {
+    background: #4CAF50;
+    color: white;
+    padding: 1em 0;
+    text-align: center;
+}
+
+h1, h2 {
+    margin: 0.5em 0;
+}
+
+#productos {
+    padding: 2em;
+}
+
+.producto {
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 1em;
+    padding-bottom: 1em;
+}
+
+.producto h3 {
+    color: #4CAF50;
+}
+
+#uso, #opiniones, #compra, footer {
+    padding: 2em;
+    background: #f4f4f4;
+    margin-top: 1em;
+}
+
+blockquote {
+    font-style: italic;
+    border-left: 4px solid #4CAF50;
+    margin: 1em 0;
+    padding-left: 0.5em;
+}
+
+footer {
+    text-align: center;
+}
+
+a {
+    color: #4CAF50;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
